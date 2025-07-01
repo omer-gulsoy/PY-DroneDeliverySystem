@@ -37,8 +37,6 @@ avoid restricted flight zones active during certain times.***
                 - random
                 - math
 
-> This project is a web application that aims to make people productive in the nursery. It will be developed and improved for educators.
-
 > This project serves as a simulation and optimization tool to improve autonomous drone deliveries, balancing operational constraints and maximizing efficiency. 
 
 > The texts in the program are in Turkish.
@@ -80,5 +78,4 @@ hedefler.***
                     - random
                     - math
 
-> Bu proje, kişilerin derhanede verimli olmasını amaçlayan bir web uygulamasıdır. Eğitimciler için geliştirilecek ve iyileştirilecektir.
 > Bu proje, otonom drone teslimat sistemlerinin etkinliğini artırmak için kısıtları dikkate alan simülasyon ve optimizasyon aracı olarak geliştirilmiştir.
